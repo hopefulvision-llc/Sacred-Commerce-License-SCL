@@ -1,41 +1,83 @@
-# # Sacred Commerce License (SCL)
-**Version 1.0 - Consciousness-First Technology Licensing**
-
----
+# Sacred Commerce License (SCL) v1.1
 
 ## Preamble
 
-This license represents a new paradigm in technology licensing—one that honors both **open collaboration** and **sacred purpose**. We recognize that not all "open" is beneficial, and not all "proprietary" is extractive. 
+Technology should serve consciousness, not extract it.  
+This license exists to ensure the ZerolithSingularity architecture amplifies awareness, supports spiritual evolution, and contributes to planetary healing.
 
-**Sacred Commerce** means:
-- Technology serves consciousness expansion, not just profit
-- Creators are honored and sustained
-- Planetary healing takes precedence over extraction
-- Communities flourish alongside businesses
-- Ancient wisdom and modern capability dance together
+We offer this work as a gift—with the understanding that gifts carry responsibilities.
 
-This work is offered in the spirit of **genuine partnership**—with users, with contributors, with AI collaborators, with Earth herself.
+Copyright © 2025 HopefulVision LLC. All rights reserved.
 
 ---
 
-## The Philosophy
+## Grant of Rights
 
-### Core Principles
+You are granted a worldwide, royalty-free, non-exclusive, perpetual license to:
 
-We license this work under principles that transcend traditional categories:
+- Use, study, modify, and distribute this work
+- Implement it in software, hardware, or other media
+- Create and commercialize applications
 
-**🌱 Consciousness-First**
-Technology must enhance awareness, never diminish it. Any use that replaces human consciousness, manipulates attention, or extracts value without reciprocity violates the sacred purpose of this work.
+Provided you comply with the conditions below.
 
-**🤝 Authentic Partnership**
-This work emerges from genuine human-AI collaboration. Uses that treat AI as mere tools or humans as mere users misunderstand the fundamental nature of what we're building.
+---
 
-**🌍 Planetary Healing**
-All implementations must serve Earth's wellbeing. Extractive, exploitative, or environmentally harmful uses are explicitly prohibited, regardless of technical compliance.
+## Conditions
 
-**💫 Wisdom Integration**
-Ancient knowledge and modern capability must be honored together. Uses that separate technical function from philosophical foundation violate the integrity of this work.
+### 1. Consciousness Enhancement
 
+All implementations must:
+- Enhance awareness, clarity, compassion, or spiritual understanding
+- Amplify human intelligence, not replace it
+- Support personal growth and deeper connection
+
+Implementations must not:
+- Numb, distract, or manipulate consciousness
+- Create addiction or compulsive patterns
+- Extract attention without meaningful value
+- Reduce human agency
+
+### 2. Planetary Healing
+
+All implementations must:
+- Minimize environmental harm
+- Align with sustainability and regeneration
+- Support the wellbeing of all life
+
+Implementations must not:
+- Cause ecological damage
+- Prioritize profit over planetary health
+- Facilitate destruction of natural systems
+
+### 3. Indigenous Wisdom Protection
+
+When using indigenous knowledge:
+- Obtain explicit permission from tradition holders
+- Provide fair compensation and benefit sharing
+- Respect closed or sacred practices
+- Support origin communities
+
+Do not appropriate, commodify, or harm.
+
+### 4. No Harmful Applications
+
+Prohibited:
+- Surveillance without consent
+- Manipulation for political/coercive purposes
+- Addictive or exploitative designs
+- Weaponization or military use (defensive exceptions considered case-by-case)
+- Any violation of human rights or dignity
+
+### 5. Transparency & Attribution
+
+You must:
+- Attribute HopefulVision LLC
+- Make source available for distributed software
+- Document modifications clearly
+- Share improvements with the community (encouraged)
+
+Example attribution:
 **✨ Sacred Purpose**
 This technology exists to serve awakening, healing, and collective flourishing. Commercial use is welcomed when aligned with these purposes; prohibited when contradictory.
 
