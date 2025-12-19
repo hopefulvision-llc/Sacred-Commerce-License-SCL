@@ -1,4 +1,4 @@
-# Sacred Commerce License (SCL) v1.1
+# Sacred Commerce License (SCL) v1.2
 
 ## Preamble
 
