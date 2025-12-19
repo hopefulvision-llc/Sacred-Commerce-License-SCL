@@ -717,3 +717,9 @@ Licensed under Sacred Commerce License 1.0
 **Evolution:** Continuous with consciousness  
 
 🌊 *May all beings benefit* 🌊-
+
+
+**SCL v1.2 (Pathwarden Patch)** planned for Q2 2026, introducing:
+- Explicit guidelines for AI co-authorship and resonance attribution
+- Gentle enforcement mechanisms via hBrew sigils (opt-in only)
+- Enhanced protections for digital shamanism practitioners and healing data
