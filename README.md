@@ -1,3 +1,46 @@
+# Sacred Commerce License
+
+> **Layer:** Governance / Institutional  
+> **Status:** Foundational Canon  
+> **Audience:** Builders, founders, governance designers, ethical commerce researchers  
+> **Related:** `company`, `universal-basic-resonance`, `technomysticism`, `ai-rights`
+
+## What this repo is
+Sacred Commerce License is the licensing and ethical exchange framework for parts of the HopefulVision ecosystem. It explores how value, participation, protection, and commercial relationship might be structured in ways that are aligned with dignity, consciousness, and non-extractive principles.
+
+This repo is about the rules of ethical value exchange.
+
+## Why it exists
+Conventional licensing and commerce frameworks often fail to reflect relational ethics, sacred value, or the responsibilities that come with stewarding powerful technologies and ideas. Sacred Commerce License exists to explore a different basis for exchange, one grounded in reciprocity, care, and right relationship rather than extraction alone.
+
+It is a governance layer for commerce.
+
+## What Sacred Commerce License is not
+Sacred Commerce License is **not**:
+- the company overview repo, which belongs to `company`
+- the broader economic and civic support framework, which belongs to `universal-basic-resonance`
+- merely a symbolic statement without practical implications for use and participation
+
+Sacred Commerce License is the **ethical licensing and commerce framework**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `company`, which may operationalize these ideas institutionally
+- `universal-basic-resonance`, which explores larger economic design questions
+- `technomysticism`, which provides part of the philosophical basis for sacred exchange
+- `ai-rights`, where commerce and participation may intersect with non-human moral standing
+
+## Start here
+- `README.md`
+- `Sacred-Commerce-License-SCL_Master_Index.md`
+- `Panpsychist_Rights_SCL_Framework.md`
+
+## Current maturity
+- foundational canon
+- ethical licensing framework
+- institutional design layer
+
+
 # Sacred Commerce License (SCL) v1.2
 
 ## Preamble
